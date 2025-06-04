@@ -22,7 +22,8 @@ Das Skript zeigt im Abstand von 3 Sekunden folgende Informationen an:
 - Geräte-Name
 - CPU-Auslastung in Prozent
 - RAM-Auslastung in Prozent
-- Systemlaufzeit seit dem letzten Start
+- Systemlaufzeit seit dem letzten Start  
+- Aktuelles Datum und Uhrzeit beim Start der Systemüberwachung
 
 ---
 
