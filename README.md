@@ -22,8 +22,18 @@ Das Skript zeigt im Abstand von 3 Sekunden folgende Informationen an:
 - Geräte-Name
 - CPU-Auslastung in Prozent
 - RAM-Auslastung in Prozent
-- Systemlaufzeit seit dem letzten Start  
-- Aktuelles Datum und Uhrzeit beim Start der Systemüberwachung
+- Systemlaufzeit seit dem letzten Start
+- Aktuelles Datum und Uhrzeit
+
+Diese Informationen werden nicht nur in der Konsole angezeigt, sondern auch automatisch in einer CSV-Datei gespeichert. 
+
+---
+
+## 🆕 Neue Funktionen
+
+✅ Speicherung der Systemdaten in der Datei system_data.csv  
+✅ Automatische Aktualisierung der Datei alle 3 Sekunden  
+✅ Strukturierte Daten für spätere Analyse oder Visualisierung
 
 ---
 
